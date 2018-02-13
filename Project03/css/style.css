@@ -1,0 +1,136 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #82d2e5;
+}
+.header{
+	background-color: white; 
+	font-family: Arial;
+	font-size: 15pt;
+	color: #999999;
+	padding-bottom: 20px;
+
+}
+
+a:hover{/*pseudo selectors/class*/
+		color: black;
+
+}
+
+a:link{
+	color: black;
+}
+
+a:visited{
+	color: #999999;
+}
+
+img[alt="logo"]{
+	width:17%;
+}
+a{ 
+	padding: 50px;
+	margin: 0;
+}
+
+img[alt="mainpageimg"]{
+	width: 100%;
+	padding: 0;
+	margin: auto;
+
+
+}
+
+.generalinfo{
+	font-family: Arial;
+	font-size: 20pt;
+	color: white;
+	padding: 30px;
+	margin: 25px;
+}
+
+#p01 a{
+	font-family: Helvetica light;
+	font-size: 35pt;
+	color: white;
+	margin: auto;
+	padding: 0;
+}
+
+
+
+#skincare{
+	background-color: white;
+	font-size: 25pt;
+	font-family: Arial;
+	color: #82d2e5;
+	padding:15px;
+	margin: auto;
+	font-kerning: 5pt;
+}
+
+
+
+.product{
+	background-color:white; 
+	font-family: helvetica light;
+	font-size: 30px;
+	color: #82d2e5;
+	margin: 0;
+	padding: 0;
+	
+}
+
+img[alt="product"]{
+	width: 50%;
+
+}
+#producttitle{
+	background-color:white; 
+	font-family: helvetica light;
+	font-size: 30px;
+	color: #999999;
+	padding-left: 30px;
+	padding-bottom: 0;
+	margin-left: 25px;
+	margin-bottom: 0;
+}
+
+#productinfo{
+	background-color:white; 
+	font-family: helvetica light;
+	font-size: 20px;
+	color: #999999;
+	padding-left: 30px;
+	padding-bottom: 0;
+	padding-top: 0;
+	padding-right: 30px;
+	margin-left: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 30px;
+
+}
+
+.ingredients{
+	background-color:white; 
+	font-family: helvetica light;
+	font-size: 20px;
+	color: #999999;
+	padding-left: 30px;
+	padding-bottom: 0;
+	padding-top: 0;
+	margin-left: 25px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#otherproducts{
+
+	font-size: 25pt;
+	font-family: Arial;
+	color: white;
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	
+}
