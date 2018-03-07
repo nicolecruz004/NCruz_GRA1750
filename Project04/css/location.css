@@ -1,0 +1,103 @@
+body {
+	margin: 0 auto;
+}
+
+.nav1 ul{
+	list-style-type: none;
+
+}
+
+.nav1 ul li{
+	display: inline-block;
+	font-size: 20pt;
+	font-family: Perpetua Titling MT;
+	color: black;
+	margin: auto 0;
+	padding: 10px;
+	padding-right: 15px;
+	margin-right: 30px;
+
+	
+}
+
+.nav1 ul{
+	border-top: 1.5pt solid #232323;
+	border-bottom: 1.5pt solid #232323;
+
+
+
+}
+
+.nav1 {
+	width: 650px;
+	height: 20px;
+	margin: 0 auto;
+	margin-top: -10px;
+	padding: 20px;
+}
+
+a:link {
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: gray;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+#address {
+	margin-top: 150px;
+	color: black;
+	font-family: cambria;
+	font-size: 25pt;
+	padding: 20px;
+	display: block;
+	background-color: rgba(255, 255, 255, 0.2); 
+	
+
+
+}
+
+#text1 {
+	text-decoration: underline;
+	font-family: cambria italic;
+	display: block;
+	width: 450px;
+	height: 150px;
+}
+
+
+
+#address2 {
+
+	margin:0 auto; 
+	color: black;
+	font-family: cambria;
+	font-size: 25pt;
+
+	display: block;
+
+
+}
+
+#text2 {
+	text-decoration: underline;
+	font-family: cambria italic;
+	display: block;
+	width: 450px;
+	height: 150px;
+}	
+
+footer {
+	margin-top: 400px;
+	display: block;
+}

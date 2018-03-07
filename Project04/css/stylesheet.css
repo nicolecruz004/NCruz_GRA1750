@@ -1,0 +1,102 @@
+body {
+	margin: 0 auto;
+}
+
+#nav ul{
+	list-style-type: none;
+
+}
+
+#nav ul li{
+	display: inline-block;
+	font-size: 20pt;
+	font-family: Perpetua Titling MT;
+	color: black;
+	margin: auto 0;
+	padding: 10px;
+	padding-right: 15px;
+	margin-right: 30px;
+}
+
+#nav ul{
+	float: left;
+	border-top: 1.5pt solid #232323;
+	border-bottom: 1.5pt solid #232323;
+
+
+}
+
+#nav {
+	width: 650px;
+	height: 20px;
+	margin: 0 auto;
+
+
+}
+
+#mark {
+	font-size: 125pt;
+	float: left;
+	position: absolute;
+	font-family: Blacksword;
+	color: black;
+	margin-top: 150px;
+	margin-left: -800px;
+	
+	
+}
+
+#and {	
+	font-size: 85pt;
+
+	float: left;
+	font-family: P22 Zaner;
+	color: black;
+	margin-top: 350px;
+	margin-left: -800px;
+
+	
+}
+
+#katie {
+
+	float: left;
+	font-family: Blacksword;
+	color: black;
+	margin: 0 auto;
+	margin-top: 450px;
+	margin-left: -1050px;
+	font-size: 125pt;
+
+}
+
+
+#request {
+	font-size: 20pt;
+	float: left;
+	font-family: cambria italic;
+	color: black;
+	text-decoration: underline;
+	margin-top: 700px;
+	margin-left: -1000px;
+
+}
+
+
+a:link {
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: gray;
+	background-color: transparent;
+	text-decoration: none;
+}

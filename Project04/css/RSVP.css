@@ -1,0 +1,165 @@
+body {
+	margin: 0 auto;
+}
+
+.nav1 ul{
+	list-style-type: none;
+
+}
+
+.nav1 ul li{
+	display: inline-block;
+	font-size: 20pt;
+	font-family: Perpetua Titling MT;
+	color: black;
+	margin: auto 0;
+	padding: 10px;
+	padding-right: 15px;
+	margin-right: 30px;
+
+	
+}
+
+.nav1 ul{
+	border-top: 1.5pt solid #232323;
+	border-bottom: 1.5pt solid #232323;
+
+
+}
+
+.nav1 {
+	width: 650px;
+	height: 20px;
+	margin: 0 auto;
+	margin-top: -10px;
+	padding: 20px;
+}
+
+a:link {
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: gray;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+#top {
+	width: 550px;
+	height: 100px;
+	margin: 0 auto;
+	margin-top: 200px;
+}
+
+#top a{
+
+	font-size: 50px;
+	font-family: blacksword;
+	color: black;
+	
+}
+
+footer {
+	margin-top: 300px;
+}
+
+.guest {
+	width: 350px;
+	height: 100px;
+	margin:0 auto;
+	font-size: 30px;
+	font-family: cambria italic;
+	color: black;
+	margin-left:1030px;
+}
+
+#box {
+	width: 35px;
+	height: 25px;
+	background-color: white;
+	border: solid grey .5pt;
+	margin-top: -98px;
+	margin-left:1325px;
+
+}
+
+
+#guest2 {
+	width: 350px;
+	height: 100px;
+	margin-left: 1250px;
+	margin-top: -25px;
+	font-size: 20px;
+	font-family: cambria italic;
+	color: black;
+}
+
+table {
+	width: 360px;
+	border: solid grey 1pt;
+}
+
+.table {
+	padding: 3px;
+
+}
+
+#first {
+	margin-top: -30px;
+
+}
+
+#box2 {
+	width: 26px;
+	height: 25px;
+	background-color: white;
+	border: solid grey .5pt;
+	margin-top: 70px;
+	margin-left: 1100px;
+}
+
+
+#guest3 {
+	width: 350px;
+	height: 100px;
+	margin-left: 515px;
+	margin-top: -25px;
+	font-size: 30px;
+	font-family: cambria italic;
+	color: black;
+	margin-left: 1110px;
+}
+
+#box0 {
+	width: 26px;
+	height: 25px;
+	background-color: white;
+	border: solid grey .5pt;
+	margin: 0 auto;
+	margin-top: 100px;
+	margin-left: 1100px;
+}
+
+
+#guest0 {
+	width: 450px;
+	height: 100px;
+	margin: 0 auto;
+	font-size: 30px;
+	font-family: cambria italic;
+	color: black;
+	margin-top: -30px;
+}
+
+#info {
+	background-color: rgba(255, 255, 255, 0.2);
+}
