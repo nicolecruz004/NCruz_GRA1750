@@ -1,0 +1,178 @@
+@charset "UTF-8";
+header .logo {
+	height: 50px;
+	margin: 0 0 0 0;
+	background-color: #000000;
+	width: 750px;
+}
+.header .logo .pin {
+	position: static;
+	width: 20px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: 20px;
+	margin-bottom: 0;
+	height: 30px;
+	float: left;
+	clear: both;
+}
+.header .logo img {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	display: block;
+	position: relative;
+}
+
+.header .logo .drop {
+	float: right;
+	width: 60px;
+	height: 20px;
+	margin-top: 15px;
+	margin-right: 20px;
+}
+
+.original {
+	width: 750px;
+	height: 990px;
+}
+.original h1 {
+	color: #000000;
+	font-family: pt-mono, "Andale Mono";
+	font-style: normal;
+	text-align: center;
+	font-size: 40px;
+	text-decoration: none;
+}
+.original hr {
+	background-color: #C52234;
+	width: 350px;
+	margin: 0 auto;
+	height: 3px;
+}
+.original p {
+	text-align: center;
+	width: 500px;
+	color: #000000;
+	font-family: pt-mono, "Andale Mono";
+	font-style: normal;
+	font-weight: 400;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	font-size: 15px;
+}
+.bacon {
+	width: 750px;
+	height: 990px;
+}
+.bacon h1 {
+	color: #000000;
+	font-family: pt-mono, "Andale Mono";
+	font-style: normal;
+	font-size: 40px;
+	text-align: center;
+}
+.bacon hr {
+	width: 400px;
+	height: 3px;
+	background-color: #C52234;
+}
+.bacon p {
+	width: 500px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	color: #000000;
+	font-family: pt-mono, "Andale Mono";
+	font-style: normal;
+	font-size: 15px;
+	text-align: center;
+}
+.houston {
+	width: 750px;
+	height: 990px;
+}
+.houston h1 {
+	color: #000000;
+	font-size: 40px;
+	text-align: center;
+	font-family: pt-mono, "Andale Mono";
+	font-style: normal;
+}
+.houston hr {
+	width: 500px;
+	height: 3px;
+	background-color: #C52234;
+}
+.houston p {
+	width: 500px;
+	color: #000000;
+	font-family: pt-mono, "Andale Mono";
+	font-style: normal;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	font-size: 15px;
+	text-align: center;
+}
+.single {
+	width: 750px;
+	height: 990px;
+}
+.single h1 {
+	color: #000000;
+	font-family: pt-mono, "Andale Mono";
+	font-style: normal;
+	font-size: 40px;
+	text-align: center;
+}
+.single hr {
+	width: 400px;
+	height: 3px;
+	background-color: #C52234;
+}
+.single p {
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	width: 500px;
+	color: #000000;
+	font-family: pt-mono, "Andale Mono";
+	font-style: normal;
+	font-size: 15px;
+	text-align: center;
+}
+
+.footer {
+	width: 750px;
+	height: 50px;
+	background-color: #000000;
+}
+.footer .fb {
+	position: relative;
+	padding-left: 290px;
+}
+
+a:link {
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color:white;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color:#C52234;
+	background-color: transparent;
+	text-decoration: none;
+}
