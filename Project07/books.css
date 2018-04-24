@@ -1,0 +1,153 @@
+@charset "UTF-8";
+nav ul {
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0 auto;
+	width: 1024px;
+	font-family: "Kohinoor Devanagari Regular";
+}
+nav ul li {
+	display: inline-block;
+	padding-top: 15px;
+	padding-left: 35px;
+	padding-bottom: 0;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 16pt;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: normal;
+	padding-right: 35px;
+	margin-left: 33px;
+}
+
+a:visited {
+	color: cadetblue;	
+	text-decoration: none;
+}
+
+a:link {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: dimgrey;
+}
+
+body {
+	background-color: #00000C;
+	margin: 0 auto;
+	width: 1024px;
+}
+
+hr {
+	width: 1024px;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	border: none;
+	height: 10px;
+	background-color: #001817;
+	margin-bottom: 15px;
+}
+
+body footer img  {
+	width: 35px;
+	height: 40px;
+	float: left;
+	margin-left: 10px;
+}
+body footer a {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: 5px;
+	margin-bottom: 0;
+	display: inline-block;
+	position: 0 auto;
+	float: left;
+}
+#privacy {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 9pt;
+	float: right;
+	padding-right: 20px;
+}
+#term {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 8pt;
+	float: right;
+	margin-right: 5px;
+	margin-top: 10px;
+}
+#logo {
+	float: left;
+	display: inline-block;
+	margin-top: 10px;
+}
+#rights {
+	color: #FFFFFF;
+	text-align: center;
+	float: right;
+	clear: right;
+	margin-top: 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 8pt;
+	margin-right: 10px;
+}
+#privacy {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 8pt;
+	margin-top: 10px;
+}
+#books {
+	margin: 0 auto;
+	width: 905px;
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 13px;
+	height: 3000px;
+}
+#books .left {
+	width: 410px;
+	height: 680px;
+	display: inline-block;
+	float: left;
+	margin-top: 50px;
+}
+.left a img {
+	width: 410px;
+	height: 600px;
+}
+.right a img {
+	width: 410px;
+	height: 600px;
+}
+#books .right {
+	width: 410px;
+	height: 680px;
+	display: inline-block;
+	float: right;
+	margin-top: 50px;
+}
+#books .left .text {
+	margin-top: 10px;
+	float: left;
+}
+
+img:hover {
+	color: antiquewhite;
+  opacity: 0.3;
+}
+
+footer {
+	width: 1024px;
+	height: 60px;
+	margin-top: 40px;
+	background-color: #00000C;
+}

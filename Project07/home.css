@@ -1,0 +1,240 @@
+@charset "UTF-8";
+
+a:visited {
+	color: cadetblue;	
+	text-decoration: none;
+}
+
+a:link {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: dimgrey;
+}
+
+body {
+	background-color: #00000C;
+	margin: 0 auto;
+	width: 1024px;
+}
+body img {
+	width: 1024px;
+	height: 435px;
+}
+hr {
+	width: 1024px;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	border: none;
+	height: 10px;
+	background-color: #001817;
+	margin-bottom: 15px;
+}
+body iframe {
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 20px;
+	width: 1024px;
+	height: 579px;
+}
+#poster {
+	width: 1024px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 20px;
+	height: 1000px;
+}
+#poster img {
+	margin-top: 25px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 25px;
+	width: 625px;
+	height: 1000px;
+	display: block;
+}
+#info {
+	color: #FFFFFF;
+	width: 900px;
+	font-family: pt-mono;
+	font-size: 16px;
+	margin: 0 auto;
+	text-align: center;
+	font-style: normal;
+	font-weight: 400;
+}
+#pics {
+	width: 1024px;
+	height: 950px;
+}
+#g1 {
+	width: 450px;
+	height: 253px;
+	background-color: #FFFFFF;
+	display: inline-block;
+}
+#g2 {
+	width: 450px;
+	height: 253px;
+	display: inline-block;
+	background-color: #FFFFFF;
+	float: right;
+}
+#pics #g1 img {
+	width: 450px;
+	height: 253px;
+}
+#pics #g2 img {
+	width: 450px;
+	height: 253px;
+}
+#pics #g3 {
+	width: 450px;
+	height: 307px;
+	display: inline-block;
+	margin-top: 40px;
+	float: left;
+}
+#pics #g3 img {
+	width: 450px;
+	height: 307px;
+	display: inline-block;
+	float: right;
+}
+#pics #g4 {
+	width: 450px;
+	height: 307px;
+	display: inline-block;
+	float: right;
+	margin-top: 40px;
+}
+#pics #g4 img {
+	width: 450px;
+	height: 307px;
+}
+#pics #g5 {
+	width: 450px;
+	height: 270px;
+	display: inline-block;
+	margin-top: 40px;
+}
+#pics #g5 img {
+	width: 450px;
+	height: 270px;
+}
+#pics #g6 {
+	width: 450px;
+	height: 270px;
+	display: inline-block;
+	margin-top: 40px;
+	float: right;
+}
+#pics #g6 img {
+	width: 450px;
+	height: 270px;
+}
+#more {
+	width: 1024px;
+	height: 60px;
+}
+#more div {
+	width: 150px;
+	margin: 0 auto;
+	height: 28px;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: #001817;
+	padding-top: 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0 auto;
+	width: 1024px;
+	font-family: "Kohinoor Devanagari Regular";
+}
+nav ul li {
+	display: inline-block;
+	padding-top: 15px;
+	padding-left: 35px;
+	padding-bottom: 0;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 16pt;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: normal;
+	padding-right: 35px;
+	margin-left: 33px;
+}
+footer {
+	width: 1024px;
+	height: 60px;
+	margin-top: 40px;
+	background-color: #00000C;
+}
+body footer img  {
+	width: 35px;
+	height: 40px;
+	float: left;
+	margin-left: 10px;
+}
+body footer a {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: 5px;
+	margin-bottom: 0;
+	display: inline-block;
+	position: 0 auto;
+	float: left;
+}
+#privacy {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 9pt;
+	float: right;
+	padding-right: 20px;
+}
+#term {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 8pt;
+	float: right;
+	margin-right: 5px;
+	margin-top: 10px;
+}
+#logo {
+	float: left;
+	display: inline-block;
+	margin-top: 10px;
+}
+#rights {
+	color: #FFFFFF;
+	text-align: center;
+	float: right;
+	clear: right;
+	margin-top: 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 8pt;
+	margin-right: 10px;
+}
+#privacy {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 8pt;
+	margin-top: 10px;
+}
+
+img:hover {
+	color: antiquewhite;
+  opacity: 0.3;
+}
